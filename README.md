@@ -6,4 +6,6 @@ EXPERIMENT5![image](https://user-images.githubusercontent.com/122254229/21756991
 EXPERIMENT6![image](https://user-images.githubusercontent.com/122254229/217571266-d83f17d1-c6d7-4512-ac9b-ea4806930db1.png)
 EXPERIMENT7![image](https://user-images.githubusercontent.com/122254229/217572936-164a8f2e-b809-4a82-af0a-add683139bf5.png)
 EXPERIMENT8![image](https://user-images.githubusercontent.com/122254229/217575171-fbd81683-cb99-4c42-af16-96fddfbd50bf.png)
+EXPERIMENT9![image](https://user-images.githubusercontent.com/122254229/217576339-e406b9d5-8fa0-454e-8249-98acbbef471f.png)
+
 
