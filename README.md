@@ -23,6 +23,8 @@ hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217
 49 to hexadecimal![image](https://user-images.githubusercontent.com/122254229/217866326-1cea6a3d-389d-43c5-888e-c2e027a0e74a.png)
 122810 into hexa![image](https://user-images.githubusercontent.com/122254229/217867202-277283f4-e778-44d5-b3f2-5a2b2e5d003c.png)
 600100 into hexa ![image](https://user-images.githubusercontent.com/122254229/217868303-36b3d58c-4402-4485-92ba-317fd44d2414.png)
+1542 to hexa![image](https://user-images.githubusercontent.com/122254229/217869529-a58f8f44-1972-4e29-be9a-436ec41da311.png)
+
 
 
 
