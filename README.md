@@ -2,8 +2,7 @@ natural numbers![image](https://user-images.githubusercontent.com/122254229/2175
 even numbers![image](https://user-images.githubusercontent.com/122254229/217585561-47e86dfd-44c2-49ea-9005-92da147a4856.png)
 odd numbers![image](https://user-images.githubusercontent.com/122254229/217586255-04e41054-9ce9-48f5-a931-61c6df774098.png)
 fibanoic series![image](https://user-images.githubusercontent.com/122254229/217845741-75079b03-5e05-4d12-8e9c-2e1a3c1a4ae5.png)
-sum of numbers
-
+sum of numbers![image](https://user-images.githubusercontent.com/122254229/217849116-8fb99f7d-0f12-43ab-8e42-a83ccbb8c108.png)
 
 summing up cubes of n numbers![image](https://user-images.githubusercontent.com/122254229/217589087-bf2b5ecb-09ba-488c-89ff-cf8551fbaa2a.png)
 number is odd or even![image](https://user-images.githubusercontent.com/122254229/217590231-bc6acbca-38d7-4309-988b-573b52289dcd.png)
