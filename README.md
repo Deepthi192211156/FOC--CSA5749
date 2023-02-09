@@ -21,6 +21,8 @@ hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217
 (172)10![image](https://user-images.githubusercontent.com/122254229/217863710-16489211-d26c-4082-ba47-7fa3dea06630.png)
 (175)10![image](https://user-images.githubusercontent.com/122254229/217865431-19f44cfb-f99c-479c-beea-7290cbdfb7a2.png)
 49 to hexadecimal![image](https://user-images.githubusercontent.com/122254229/217866326-1cea6a3d-389d-43c5-888e-c2e027a0e74a.png)
+122810 into hexa![image](https://user-images.githubusercontent.com/122254229/217867202-277283f4-e778-44d5-b3f2-5a2b2e5d003c.png)
+
 
 
 
