@@ -1,7 +1,7 @@
 natural numbers![image](https://user-images.githubusercontent.com/122254229/217584753-6b12e69f-1f0f-4b53-a191-3fca0453bd01.png)
 even numbers![image](https://user-images.githubusercontent.com/122254229/217585561-47e86dfd-44c2-49ea-9005-92da147a4856.png)
 odd numbers![image](https://user-images.githubusercontent.com/122254229/217586255-04e41054-9ce9-48f5-a931-61c6df774098.png)
-fibinoic series![image](https://user-images.githubusercontent.com/122254229/217586761-195e934c-2bd5-40a0-8111-61b0a3ce9cf5.png!)
+fibinoic series
 sum of numbers[image](https://user-images.githubusercontent.com/122254229/217587300-5f84c380-daf5-45c3-ab27-89e15f43e378.png)
 sum of even numbers![image](https://user-images.githubusercontent.com/122254229/217588332-a89e32ce-4b78-4d32-8ca7-4a13359b3a10.png)
 summing up cubes of n numbers![image](https://user-images.githubusercontent.com/122254229/217589087-bf2b5ecb-09ba-488c-89ff-cf8551fbaa2a.png)
