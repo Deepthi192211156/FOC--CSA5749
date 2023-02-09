@@ -14,6 +14,8 @@ sum of digits of integer numbers![image](https://user-images.githubusercontent.c
 reverting digits of an integer![image](https://user-images.githubusercontent.com/122254229/217595667-030c9fd4-33a9-4d3d-879a-6642450b0dfb.png)
 integer is positive or negative![image](https://user-images.githubusercontent.com/122254229/217596095-55720b02-5ec5-4dd3-9748-8da490a9f7ef.png)
 swapping two numbers with a temporary variable![image](https://user-images.githubusercontent.com/122254229/217596722-6d0d1afa-ee4b-4a0c-81a4-64c0c4d7c070.png)
+decimal to hexadecimal![image](https://user-images.githubusercontent.com/122254229/217857028-121f5831-b758-4623-bb99-09fca4ffad40.png)
+
 
 
 
