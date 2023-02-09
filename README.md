@@ -29,6 +29,8 @@ array![image](https://user-images.githubusercontent.com/122254229/217875960-7be4
 base10 to base8![image](https://user-images.githubusercontent.com/122254229/217877074-ce634154-e123-4287-bf2d-81c6aa111de4.png)
 binary addition![image](https://user-images.githubusercontent.com/122254229/217878210-c3c7f6ae-d22a-463f-b493-7081a99725bf.png)
 binary multiplication![image](https://user-images.githubusercontent.com/122254229/217879447-bf58a69a-fbf7-4ac5-bfd3-ba900cb8083b.png)
+binary search![image](https://user-images.githubusercontent.com/122254229/217880373-53e22978-74d8-4f93-a954-d86771f4be58.png)
+
 
 
 
