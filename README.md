@@ -4,7 +4,7 @@ odd numbers![image](https://user-images.githubusercontent.com/122254229/21758625
 fibanoic series![image](https://user-images.githubusercontent.com/122254229/217845741-75079b03-5e05-4d12-8e9c-2e1a3c1a4ae5.png)
 sum of numbers![image](https://user-images.githubusercontent.com/122254229/217849116-8fb99f7d-0f12-43ab-8e42-a83ccbb8c108.png)
 sum of even numbers![image](https://user-images.githubusercontent.com/122254229/217854168-dd7a69a3-789d-40d2-a3a6-b0611ea9c13b.png)
-summing up cubes of n numbers![image](https://user-images.githubusercontent.com/122254229/217589087-bf2b5ecb-09ba-488c-89ff-cf8551fbaa2a.png)
+summing up cubes of n numbers![image](https://user-images.githubusercontent.com/122254229/217855406-603c4d74-50ee-45d1-a8e5-7538edb6437f.png)
 number is odd or even![image](https://user-images.githubusercontent.com/122254229/217590231-bc6acbca-38d7-4309-988b-573b52289dcd.png)
 factorial![image](https://user-images.githubusercontent.com/122254229/217590934-50efe4af-dd47-46f4-b8e3-747a8f3f3e67.png)
 amstrong![image](https://user-images.githubusercontent.com/122254229/217591702-99e6f9b5-76a9-457f-b408-20d443009e53.png)
