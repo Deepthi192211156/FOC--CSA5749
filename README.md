@@ -16,6 +16,8 @@ integer is positive or negative![image](https://user-images.githubusercontent.co
 swapping two numbers with a temporary variable![image](https://user-images.githubusercontent.com/122254229/217596722-6d0d1afa-ee4b-4a0c-81a4-64c0c4d7c070.png)
 decimal to hexadecimal![image](https://user-images.githubusercontent.com/122254229/217857028-121f5831-b758-4623-bb99-09fca4ffad40.png)
 hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217859123-782e69d1-7a48-4e15-ac6a-c4e185a8f4d4.png)
+(2020)10![image](https://user-images.githubusercontent.com/122254229/217860107-23dcaee4-b23b-41bb-b945-48f5d3538407.png)
+
 
 
 
