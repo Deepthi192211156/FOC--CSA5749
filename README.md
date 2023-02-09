@@ -27,6 +27,8 @@ hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217
 binary to decimal![image](https://user-images.githubusercontent.com/122254229/217871922-35ab20e5-f3e1-41bc-85cf-7e6848194808.png)
 array![image](https://user-images.githubusercontent.com/122254229/217875960-7be4b1ad-5530-4bc0-9605-4df5b30d5e6a.png)
 base10 to base8![image](https://user-images.githubusercontent.com/122254229/217877074-ce634154-e123-4287-bf2d-81c6aa111de4.png)
+binary addition![image](https://user-images.githubusercontent.com/122254229/217878210-c3c7f6ae-d22a-463f-b493-7081a99725bf.png)
+
 
 
 
