@@ -25,6 +25,8 @@ hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217
 600100 into hexa ![image](https://user-images.githubusercontent.com/122254229/217868303-36b3d58c-4402-4485-92ba-317fd44d2414.png)
 1542 to hexa![image](https://user-images.githubusercontent.com/122254229/217869529-a58f8f44-1972-4e29-be9a-436ec41da311.png)
 binary to decimal![image](https://user-images.githubusercontent.com/122254229/217871922-35ab20e5-f3e1-41bc-85cf-7e6848194808.png)
+array![image](https://user-images.githubusercontent.com/122254229/217875960-7be4b1ad-5530-4bc0-9605-4df5b30d5e6a.png)
+
 
 
 
