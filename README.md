@@ -31,6 +31,8 @@ binary addition![image](https://user-images.githubusercontent.com/122254229/2178
 binary multiplication![image](https://user-images.githubusercontent.com/122254229/217879447-bf58a69a-fbf7-4ac5-bfd3-ba900cb8083b.png)
 binary search![image](https://user-images.githubusercontent.com/122254229/217880373-53e22978-74d8-4f93-a954-d86771f4be58.png)
 binary substraction![image](https://user-images.githubusercontent.com/122254229/217881486-831af0c1-396f-4026-bc3e-1fc1b40f8c7e.png)
+index search![image](https://user-images.githubusercontent.com/122254229/217882738-9a1f4a54-9da4-4329-a444-920c54edaaa1.png)
+
 
 
 
