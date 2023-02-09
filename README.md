@@ -20,6 +20,8 @@ hexa to decimal!![image](https://user-images.githubusercontent.com/122254229/217
 (2020.65625)10![image](https://user-images.githubusercontent.com/122254229/217861663-158d544f-8c97-4505-9861-4f53e51b691d.png)
 (172)10![image](https://user-images.githubusercontent.com/122254229/217863710-16489211-d26c-4082-ba47-7fa3dea06630.png)
 (175)10![image](https://user-images.githubusercontent.com/122254229/217865431-19f44cfb-f99c-479c-beea-7290cbdfb7a2.png)
+49 to hexadecimal![image](https://user-images.githubusercontent.com/122254229/217866326-1cea6a3d-389d-43c5-888e-c2e027a0e74a.png)
+
 
 
 
