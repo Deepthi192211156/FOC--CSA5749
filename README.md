@@ -37,6 +37,8 @@ create shell(leap year)![image](https://user-images.githubusercontent.com/122254
 shell(square of a number)![image](https://user-images.githubusercontent.com/122254229/218033402-b723ed35-efb5-4069-906a-d06d819a6d50.png)
 shell arithmatic operations![image](https://user-images.githubusercontent.com/122254229/218049908-b9dfbb8d-4874-4f06-96b2-ec70b4a8132a.png)
 shell(swapping of numbers)![image](https://user-images.githubusercontent.com/122254229/218050605-976a20d2-f93f-479e-9301-02fea6900cb4.png)
+area of diff![image](https://user-images.githubusercontent.com/122254229/218051788-6d085815-37dc-4a83-8c8e-68bf5aac615a.png)
+
 
 
 
