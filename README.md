@@ -33,6 +33,8 @@ binary search![image](https://user-images.githubusercontent.com/122254229/217880
 binary substraction![image](https://user-images.githubusercontent.com/122254229/217881486-831af0c1-396f-4026-bc3e-1fc1b40f8c7e.png)
 index search![image](https://user-images.githubusercontent.com/122254229/217882738-9a1f4a54-9da4-4329-a444-920c54edaaa1.png)
 prepare mark list using elif![image](https://user-images.githubusercontent.com/122254229/218031609-40d4a1cb-1a90-45d5-8f26-420fdde5276d.png)
+create shell(leap year)![image](https://user-images.githubusercontent.com/122254229/218032655-0e78d32a-6bf4-4076-a9d8-f35db5be7e6b.png)
+
 
 
 
