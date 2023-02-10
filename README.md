@@ -34,6 +34,8 @@ binary substraction![image](https://user-images.githubusercontent.com/122254229/
 index search![image](https://user-images.githubusercontent.com/122254229/217882738-9a1f4a54-9da4-4329-a444-920c54edaaa1.png)
 prepare mark list using elif![image](https://user-images.githubusercontent.com/122254229/218031609-40d4a1cb-1a90-45d5-8f26-420fdde5276d.png)
 create shell(leap year)![image](https://user-images.githubusercontent.com/122254229/218032655-0e78d32a-6bf4-4076-a9d8-f35db5be7e6b.png)
+shell(square of a number)![image](https://user-images.githubusercontent.com/122254229/218033402-b723ed35-efb5-4069-906a-d06d819a6d50.png)
+
 
 
 
