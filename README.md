@@ -35,6 +35,8 @@ index search![image](https://user-images.githubusercontent.com/122254229/2178827
 prepare mark list using elif![image](https://user-images.githubusercontent.com/122254229/218031609-40d4a1cb-1a90-45d5-8f26-420fdde5276d.png)
 create shell(leap year)![image](https://user-images.githubusercontent.com/122254229/218032655-0e78d32a-6bf4-4076-a9d8-f35db5be7e6b.png)
 shell(square of a number)![image](https://user-images.githubusercontent.com/122254229/218033402-b723ed35-efb5-4069-906a-d06d819a6d50.png)
+arithmatic operations![image](https://user-images.githubusercontent.com/122254229/218049908-b9dfbb8d-4874-4f06-96b2-ec70b4a8132a.png)
+
 
 
 
