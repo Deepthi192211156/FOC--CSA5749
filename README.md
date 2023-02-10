@@ -39,6 +39,8 @@ shell arithmatic operations![image](https://user-images.githubusercontent.com/12
 shell(swapping of numbers)![image](https://user-images.githubusercontent.com/122254229/218050605-976a20d2-f93f-479e-9301-02fea6900cb4.png)
 area of diff![image](https://user-images.githubusercontent.com/122254229/218051788-6d085815-37dc-4a83-8c8e-68bf5aac615a.png)
 shell(sum avg product)![image](https://user-images.githubusercontent.com/122254229/218052413-c47de262-5f10-48bd-a525-a143f48ebe7d.png)
+shell(reverse of string)![image](https://user-images.githubusercontent.com/122254229/218053197-ecbe1fdb-82a0-4bb1-ab51-8c32019fa7ef.png)
+
 
 
 
