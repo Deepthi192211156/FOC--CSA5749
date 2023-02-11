@@ -44,6 +44,8 @@ shell(biggest of three)![image](https://user-images.githubusercontent.com/122254
 concatenate![image](https://user-images.githubusercontent.com/122254229/218235290-f2f9ba39-ddc7-4655-a676-71d3609c878e.png)
 shell(decimal to binary)![image](https://user-images.githubusercontent.com/122254229/218235418-d7b6b468-1a0f-4204-ad26-f2627238cea5.png)
 factorial using recursion![image](https://user-images.githubusercontent.com/122254229/218235641-3acf87ad-e2a0-456f-846e-7a20860ad9b1.png)
+gcd![image](https://user-images.githubusercontent.com/122254229/218235788-6d38d105-af01-42be-a109-b8f5095e6dcb.png)
+
 
 
 
