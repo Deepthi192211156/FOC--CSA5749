@@ -45,6 +45,8 @@ concatenate![image](https://user-images.githubusercontent.com/122254229/21823529
 shell(decimal to binary)![image](https://user-images.githubusercontent.com/122254229/218235418-d7b6b468-1a0f-4204-ad26-f2627238cea5.png)
 factorial using recursion![image](https://user-images.githubusercontent.com/122254229/218235641-3acf87ad-e2a0-456f-846e-7a20860ad9b1.png)
 gcd![image](https://user-images.githubusercontent.com/122254229/218235788-6d38d105-af01-42be-a109-b8f5095e6dcb.png)
+shell-odd position![image](https://user-images.githubusercontent.com/122254229/218236027-2cd3173f-8749-4f37-8c8b-3b0d177db851.png)
+
 
 
 
