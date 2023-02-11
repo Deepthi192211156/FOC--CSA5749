@@ -53,6 +53,8 @@ decimal to octal![image](https://user-images.githubusercontent.com/122254229/218
 octal to decimal![image](https://user-images.githubusercontent.com/122254229/218243479-fb086b9f-fdd6-4854-81f4-b6bb9e608f5f.png)
 shell(palindrome check)![image](https://user-images.githubusercontent.com/122254229/218243615-23ac9835-9c11-4b65-a692-2949d4ed4340.png)
 shell(natural numbers)![image](https://user-images.githubusercontent.com/122254229/218243734-874d8e7c-e281-4db6-bffb-66197bab555f.png)
+shell-sum,sub,multiplication![image](https://user-images.githubusercontent.com/122254229/218243877-04c5e7f0-ab87-4eba-bcae-96a50f28728a.png)
+
 
 
 
