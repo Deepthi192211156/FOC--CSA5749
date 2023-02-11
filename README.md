@@ -42,6 +42,8 @@ shell(sum avg product)![image](https://user-images.githubusercontent.com/1222542
 shell(reverse of string)![image](https://user-images.githubusercontent.com/122254229/218053197-ecbe1fdb-82a0-4bb1-ab51-8c32019fa7ef.png)
 shell(biggest of three)![image](https://user-images.githubusercontent.com/122254229/218235020-fabd79ca-ed90-45df-83cc-6f0d4ca973e6.png)
 concatenate![image](https://user-images.githubusercontent.com/122254229/218235290-f2f9ba39-ddc7-4655-a676-71d3609c878e.png)
+shell(decimal to binary)![image](https://user-images.githubusercontent.com/122254229/218235418-d7b6b468-1a0f-4204-ad26-f2627238cea5.png)
+
 
 
 
