@@ -50,6 +50,8 @@ quadratic equations![image](https://user-images.githubusercontent.com/122254229/
 bio data!![image](https://user-images.githubusercontent.com/122254229/218242936-c5fc5b40-a4b9-41ec-afda-f34848f15d90.png)
 binary multiplication![image](https://user-images.githubusercontent.com/122254229/218243180-6e369024-859c-4fc9-ae2d-4cdfa3bde9ab.png)
 decimal to octal![image](https://user-images.githubusercontent.com/122254229/218243367-fbc29617-f5ae-41fb-b1f6-978bb0ff550a.png)
+octal to decimal![image](https://user-images.githubusercontent.com/122254229/218243479-fb086b9f-fdd6-4854-81f4-b6bb9e608f5f.png)
+
 
 
 
