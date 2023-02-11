@@ -48,6 +48,8 @@ gcd![image](https://user-images.githubusercontent.com/122254229/218235788-6d38d1
 shell-odd position![image](https://user-images.githubusercontent.com/122254229/218236027-2cd3173f-8749-4f37-8c8b-3b0d177db851.png)
 quadratic equations![image](https://user-images.githubusercontent.com/122254229/218242491-0b4a93ae-3d65-4822-8f1d-1c9cee4bd3e2.png)
 bio data!![image](https://user-images.githubusercontent.com/122254229/218242936-c5fc5b40-a4b9-41ec-afda-f34848f15d90.png)
+binary multiplication![image](https://user-images.githubusercontent.com/122254229/218243180-6e369024-859c-4fc9-ae2d-4cdfa3bde9ab.png)
+
 
 
 
