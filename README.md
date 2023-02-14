@@ -56,6 +56,8 @@ shell(natural numbers)![image](https://user-images.githubusercontent.com/1222542
 shell-sum,sub,multiplication![image](https://user-images.githubusercontent.com/122254229/218243877-04c5e7f0-ab87-4eba-bcae-96a50f28728a.png)
 summing up of numbers![image](https://user-images.githubusercontent.com/122254229/218243976-25deb278-f4f4-4daa-953e-9e74216039d5.png)
 advertisement in word![Screenshot (2)](https://user-images.githubusercontent.com/122254229/218640288-a461aece-0019-4399-bb45-d279d2083e92.png)
+concept of mail merg![Screenshot (5)](https://user-images.githubusercontent.com/122254229/218640543-c622069d-5c99-4570-bef0-ac2c392c5d35.png)
+
 
 
 
