@@ -58,6 +58,9 @@ summing up of numbers![image](https://user-images.githubusercontent.com/12225422
 advertisement in word![Screenshot (2)](https://user-images.githubusercontent.com/122254229/218640288-a461aece-0019-4399-bb45-d279d2083e92.png)
 concept of mail merg![Screenshot (5)](https://user-images.githubusercontent.com/122254229/218640543-c622069d-5c99-4570-bef0-ac2c392c5d35.png)
 spread sheet![Screenshot (3)](https://user-images.githubusercontent.com/122254229/218640758-3171d554-47a1-4c2a-a005-b75fab9ff5b5.png)
+power point![Screenshot (11)](https://user-images.githubusercontent.com/122254229/218640906-2dd13e5f-3550-4f3f-9f73-bb7d6312cbcb.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/122254229/218640947-95ac4aa2-1b62-4978-a1fe-2828e1d98e2f.png)
+
 
 
 
